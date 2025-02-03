@@ -13,7 +13,7 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itshasanaslan&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itshasanaslan&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itshasanaslan&layout=compact&theme=dark&hide=python)
 
 ---
 
